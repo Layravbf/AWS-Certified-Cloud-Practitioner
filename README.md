@@ -49,7 +49,7 @@ As anotações estão organizadas da seguinte forma:
 - **Principais serviços da AWS**: EC2, S3, RDS, DynamoDB, Lambda, entre outros.
 - **Segurança e conformidade**: IAM, políticas de segurança, e boas práticas.
 - **Modelos de preços e suporte**: Preços sob demanda, savings plans, suporte AWS, e calculadora de custos.
-- **Estilo de questões e simulados**: Estratégias para interpretar e responder questões da prova.
+- **Estilo de questões e simulados**: Estratégias para interpretar e responder questões da prova.(São questões diretas que saber o que cada serviço faz resolve grande maioria)
 
 ## 💡 Como Utilizar Estas Notas
 
